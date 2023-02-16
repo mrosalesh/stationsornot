@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+<busStop id="bs0" lane="-E3_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs1" lane="-E3_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs2" lane="-E3_1" startPos="100" endPos="115" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs3" lane="-E2_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs4" lane="-E2_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs5" lane="-E2.65_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs6" lane="-E2.65_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs7" lane="E8_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs8" lane="E7.49_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs9" lane="E7.49_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs10" lane="E31_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs11" lane="-E20_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs12" lane="-E20_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs13" lane="-E20.53_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs14" lane="-E20.53_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs15" lane="-E20.117_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs16" lane="-E20.117_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs17" lane="-E21_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs18" lane="-E21_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs19" lane="-E21.88_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs20" lane="-E21.88_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs21" lane="-E36_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs22" lane="E34.81_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs23" lane="E34.81_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs24" lane="E32_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs25" lane="-E23_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs26" lane="-E23_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs27" lane="-E1_1" startPos="0" endPos="15" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs28" lane="-E1_1" startPos="50" endPos="65" lines="1b" friendlyPos="true" personCapacity="100" />
+<busStop id="bs29" lane="-E1_1" startPos="100" endPos="115" lines="1b" friendlyPos="true" personCapacity="100" />
+</additional>
